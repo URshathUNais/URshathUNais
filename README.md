@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/ur'shath un'ais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ur'shath un'ais" height="30" width="40" /></a>
+<a href="https://instagram.com/ur'shath un'ais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ur'shath un'ais" height="30" width="40" /></a>
+<a href="https://twitter.com/ur"shath un"ais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ur"shath un"ais" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed urshath khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed urshath khan" height="30" width="40" /></a>
 </p>
 
