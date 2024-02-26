@@ -8,6 +8,11 @@
 <p>- 🎓 Completing BSc (Hons) Computing Science in Software Engineering (TOP UP) – Kingston University</p>
 <p>- 🌱 I’m currently learning **React Js, React Native**</p>
 
+<h3>Contact me:</h3>
+<p>- 📧 Email: urshathunais123@gmail.com</p>
+<p>- 📞 Phone: (077 451 9176)</p>
+<p>- 📍 Location: [Batticaloa, Sri Lanka]</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed urshath khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed urshath khan" height="30" width="40" /></a>
