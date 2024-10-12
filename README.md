@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urshathunais&label=Profile%20views&color=0e75b6&style=flat" alt="urshathunais" /> </p>
 
 <h3>Education:</h3>
-<p>- 🎓 Completing BSc (Hons) Computing Science in Software Engineering (TOP UP) – Kingston University</p>
+<p>- 🎓 Completed BSc (Hons) Computer Science in Software Engineering (TOP UP) – Kingston University</p>
 <p>- 🌱 I’m currently learning **React Js, React Native**</p>
 
 <h3>Contact me:</h3>
